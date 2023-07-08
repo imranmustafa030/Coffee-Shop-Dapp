@@ -76,6 +76,8 @@ We would like to thank the following resources and projects for their valuable c
 - Hardhat: https://github.com/nomiclabs/hardhat
 - Web3.js: https://github.com/ChainSafe/web3.js
 
+- https://coffee-shop-dapp.netlify.app/
+
 ## Contact
 
 Thank you for your interest in the Coffee Shop Dapp! We hope you enjoy your virtual coffee experience.
